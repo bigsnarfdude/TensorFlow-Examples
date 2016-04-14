@@ -10,10 +10,9 @@ https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/py
 http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 
 # Learn the stuff off Udacity for Youtube learners
-Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos...lotsa clikcs doesnt mean good)
+Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos...lotsa clicks doesnt mean good)
 https://www.udacity.com/course/deep-learning--ud730
 https://www.youtube.com/watch?v=iQdWX1327XQ
-https://github.com/mbernico/CS570/tree/master/deepLearning
 
 # Submit to Kaggle
 Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
