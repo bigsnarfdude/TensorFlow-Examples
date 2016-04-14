@@ -32,6 +32,8 @@ Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 http://yann.lecun.com/exdb/mnist/
 
 
+![Numbers](http://cs.stanford.edu/people/karpathy/convnetjs/mnist.png "Numbers")
+
 
 # TensorFlow Examples
 Code examples for some popular machine learning algorithms, using TensorFlow library. This tutorial is designed to easily dive into TensorFlow, through examples. It includes both notebook and code with explanations.
