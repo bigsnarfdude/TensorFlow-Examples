@@ -1,4 +1,3 @@
-https://imgflip.com/i/12i14k
 ![Deep](http://fastml.com/images/tensorflow/i_dont_always_use_deep_learning.jpg "Deep")
 
 
@@ -10,6 +9,8 @@ https://hub.docker.com/r/tensorflow/tensorflow/
 
 # Upgrade to Version 0.8 Distributed TensorFlow
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
+
+![Hot](https://i.imgflip.com/12i14k.jpg "So hot right now")
 
 # sklearners can find the TensofFlow sklearn API
 "To smooth the transition from the `Scikit Learn world of one-liner machine learning` into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable."
