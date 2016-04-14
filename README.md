@@ -23,7 +23,7 @@ https://github.com/mbernico/CS570/tree/master/deepLearning
 # Submit to Kaggle
 Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 
-# Nerd out - Different papers MNSIT
+# Nerd out - Different papers MNIST
 http://yann.lecun.com/exdb/mnist/
 
 
