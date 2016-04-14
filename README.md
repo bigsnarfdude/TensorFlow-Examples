@@ -20,6 +20,11 @@ https://github.com/mbernico/CS570/tree/master/deepLearning
 # Submit to Kaggle
 Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 
+# Nerd out - Different papers MNSIT
+http://yann.lecun.com/exdb/mnist/
+
+
+
 # TensorFlow Examples
 Code examples for some popular machine learning algorithms, using TensorFlow library. This tutorial is designed to easily dive into TensorFlow, through examples. It includes both notebook and code with explanations.
 
