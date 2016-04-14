@@ -1,5 +1,5 @@
-http://fastml.com/images/tensorflow/i_dont_always_use_deep_learning.jpg
 https://imgflip.com/i/12i14k
+![Deep](http://fastml.com/images/tensorflow/i_dont_always_use_deep_learning.jpg "Deep")
 
 
 # First Steps - Interactive DataViz - TensorFlow in your browser
