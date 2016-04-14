@@ -1,3 +1,16 @@
+# Save yourself the headache of installing TensorFlow
+https://hub.docker.com/r/tensorflow/tensorflow/
+
+# Upgrade to Version 0.8 Distributed TensorFlow
+pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
+
+# Learn the stuff off Udacity for Youtube learners
+Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos)
+https://www.udacity.com/course/deep-learning--ud730
+
+# Submit to Kaggle
+Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
+
 # TensorFlow Examples
 Code examples for some popular machine learning algorithms, using TensorFlow library. This tutorial is designed to easily dive into TensorFlow, through examples. It includes both notebook and code with explanations.
 
