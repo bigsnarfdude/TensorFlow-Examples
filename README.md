@@ -13,6 +13,8 @@ http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos...lotsa clicks doesnt mean good)
 https://www.udacity.com/course/deep-learning--ud730
 https://www.youtube.com/watch?v=iQdWX1327XQ
+
+# Learn and use these notebooks to implement basic to advanced TensorFlow
 https://github.com/mbernico/CS570/tree/master/deepLearning
 
 # Submit to Kaggle
