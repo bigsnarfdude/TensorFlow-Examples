@@ -7,7 +7,7 @@ pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow
 # sklearners can find the TensofFlow sklearn API
 "To smooth the transition from the `Scikit Learn world of one-liner machine learning` into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable."
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn
-
+http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 
 # Learn the stuff off Udacity for Youtube learners
 Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos)
