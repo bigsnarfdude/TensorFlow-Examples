@@ -7,8 +7,18 @@ http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&re
 # Save yourself the headache of installing TensorFlow
 https://hub.docker.com/r/tensorflow/tensorflow/
 
+# AWS GPU
+https://gist.github.com/erikbern/78ba519b97b440e10640
+http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
+Public AMI in US-East(N. Virginia): ami-9d0f3ff7
+
+
+
+
 # Upgrade to Version 0.8 Distributed TensorFlow
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
+
+
 
 ![Hot](https://i.imgflip.com/12i14k.jpg "So hot right now")
 
