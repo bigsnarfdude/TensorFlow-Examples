@@ -31,6 +31,10 @@ Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 # Nerd out - Different papers MNIST
 http://yann.lecun.com/exdb/mnist/
 
+# First NN read
+http://neuralnetworksanddeeplearning.com/index.html
+
+
 
 ![Numbers](http://cs.stanford.edu/people/karpathy/convnetjs/mnist.png "Numbers")
 
