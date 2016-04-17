@@ -38,6 +38,10 @@ https://github.com/mbernico/CS570/tree/master/deepLearning
 # Submit to Kaggle
 Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 
+# Visualizing MNIST data
+http://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
+
 # Nerd out - Different papers MNIST
 http://yann.lecun.com/exdb/mnist/
 
