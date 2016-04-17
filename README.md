@@ -44,6 +44,10 @@ http://colah.github.io/posts/2014-10-Visualizing-MNIST/
 
 # Nerd out - Different papers MNIST
 http://yann.lecun.com/exdb/mnist/
+http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf
+http://www.cs.toronto.edu/~hinton/absps/tsne.pdf
+http://arxiv.org/pdf/1502.03167.pdf
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
 # First NN read
 http://neuralnetworksanddeeplearning.com/index.html
