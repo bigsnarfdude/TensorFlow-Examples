@@ -33,7 +33,7 @@ Some of the other videos (you know who you are...are pure crap watch me learn Te
 https://www.udacity.com/course/deep-learning--ud730
 https://www.youtube.com/watch?v=iQdWX1327XQ
 
-# Stanford CS231n
+# Stanford Deep Learning Computer Vision CS231n
 https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 
 # Learn and use these notebooks to implement basic to advanced TensorFlow
