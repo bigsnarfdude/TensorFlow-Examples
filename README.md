@@ -10,6 +10,7 @@ https://hub.docker.com/r/tensorflow/tensorflow/
 # AWS GPU
 https://gist.github.com/AlexJoz/1670baf0b32573ca7923
 http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
+http://eugenezhulenev.com/blog/2016/02/01/deep-learning-with-tensorflow-on-ec2-spot-instances/
 Public AMI in US-East(N. Virginia): ami-9d0f3ff7
 
 
