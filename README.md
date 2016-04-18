@@ -49,6 +49,7 @@ http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf
 http://www.cs.toronto.edu/~hinton/absps/tsne.pdf
 http://arxiv.org/pdf/1502.03167.pdf
 https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+http://arxiv.org/pdf/1502.03492.pdf
 
 # First NN read
 http://neuralnetworksanddeeplearning.com/index.html
