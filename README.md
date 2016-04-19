@@ -53,6 +53,7 @@ http://www.cs.toronto.edu/~hinton/absps/tsne.pdf
 http://arxiv.org/pdf/1502.03167.pdf
 https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 http://arxiv.org/pdf/1502.03492.pdf
+http://arxiv.org/pdf/1603.07285v1.pdf
 
 # First NN read
 http://neuralnetworksanddeeplearning.com/index.html
