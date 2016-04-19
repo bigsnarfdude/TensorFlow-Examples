@@ -18,7 +18,7 @@ Public AMI in US-East(N. Virginia): ami-9d0f3ff7
 
 # Upgrade to Version 0.8 Distributed TensorFlow
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
-
+https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 
 
 ![Hot](https://i.imgflip.com/12i14k.jpg "So hot right now")
