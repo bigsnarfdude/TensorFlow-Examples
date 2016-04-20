@@ -55,6 +55,9 @@ https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 http://arxiv.org/pdf/1502.03492.pdf
 http://arxiv.org/pdf/1603.07285v1.pdf
 
+# Stats for deep learning
+http://joanbruna.github.io/stat212b/
+
 # First NN read
 http://neuralnetworksanddeeplearning.com/index.html
 
