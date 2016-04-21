@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=iQdWX1327XQ
 
 # Stanford Deep Learning Computer Vision CS231n
 https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+http://cs231n.github.io/linear-classify/
 
 # Learn and use these notebooks to implement basic to advanced TensorFlow
 https://github.com/mbernico/CS570/tree/master/deepLearning
