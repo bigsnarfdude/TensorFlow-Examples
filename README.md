@@ -40,6 +40,10 @@ https://www.youtube.com/watch?v=iQdWX1327XQ
 https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 http://cs231n.github.io/linear-classify/
 
+# CS224 Youtube
+https://www.youtube.com/watch?v=kZteabVD8sU
+http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
+
 # Learn and use these notebooks to implement basic to advanced TensorFlow
 https://github.com/mbernico/CS570/tree/master/deepLearning
 
