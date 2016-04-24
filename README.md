@@ -47,6 +47,9 @@ http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 # Learn and use these notebooks to implement basic to advanced TensorFlow
 https://github.com/mbernico/CS570/tree/master/deepLearning
 
+# Tutorial controlling backprop
+https://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb
+
 # Submit to Kaggle
 Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 
