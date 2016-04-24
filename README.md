@@ -31,6 +31,7 @@ https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.h
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn
 http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 https://github.com/tensorflow/tensorflow/tree/e39d8feebb9666a331345cd8d960f5ade4652bba/tensorflow/examples/skflow
+https://github.com/tensorflow/tensorflow/blob/e39d8feebb9666a331345cd8d960f5ade4652bba/tensorflow/examples/skflow/iris_save_restore.py
 
 # Learn the stuff off Udacity for Youtube learners
 Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos...lotsa clicks doesnt mean good)
