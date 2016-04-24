@@ -33,6 +33,9 @@ http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 https://github.com/tensorflow/tensorflow/tree/e39d8feebb9666a331345cd8d960f5ade4652bba/tensorflow/examples/skflow
 https://github.com/tensorflow/tensorflow/blob/e39d8feebb9666a331345cd8d960f5ade4652bba/tensorflow/examples/skflow/iris_save_restore.py
 
+# tensorflow models in production with serving
+http://googleresearch.blogspot.ca/2016/02/running-your-models-in-production-with.html
+
 # Learn the stuff off Udacity for Youtube learners
 Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos...lotsa clicks doesnt mean good)
 https://www.udacity.com/course/deep-learning--ud730
