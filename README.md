@@ -79,6 +79,7 @@ http://arxiv.org/pdf/1502.03167.pdf
 https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 http://arxiv.org/pdf/1502.03492.pdf
 http://arxiv.org/pdf/1603.07285v1.pdf
+http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf
 
 # Stats for deep learning
 http://joanbruna.github.io/stat212b/
