@@ -50,6 +50,9 @@ http://cs231n.github.io/linear-classify/
 https://www.youtube.com/watch?v=kZteabVD8sU
 http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 
+# Tensorflow benchmarks and setup for Alexnet and GoogLeNet
+https://github.com/soumith/convnet-benchmarks
+
 # Learn and use these notebooks to implement basic to advanced TensorFlow
 https://github.com/mbernico/CS570/tree/master/deepLearning
 
