@@ -84,6 +84,9 @@ http://arxiv.org/pdf/1502.03492.pdf
 http://arxiv.org/pdf/1603.07285v1.pdf
 http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf
 
+# 8 bit Tensorflow
+https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
+
 # Stats for deep learning
 http://joanbruna.github.io/stat212b/
 
