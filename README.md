@@ -17,8 +17,13 @@ http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
 http://eugenezhulenev.com/blog/2016/02/01/deep-learning-with-tensorflow-on-ec2-spot-instances/
 Public AMI in US-East(N. Virginia): ami-9d0f3ff7
 
-
-
+# Transfer Learning Inception v3
+https://github.com/bigsnarfdude/tensorflow_transfer_cifar10
+https://github.com/bigsnarfdude/models/tree/master/inception
+https://plus.google.com/+JeffDean/posts/cY9qtLtEmJW
+http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
+https://www.tensorflow.org/versions/master/how_tos/image_retraining/index.html
+https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366#.41kxv25qm
 
 # Upgrade to Version 0.8 Distributed TensorFlow
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
