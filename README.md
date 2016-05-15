@@ -63,6 +63,8 @@ https://github.com/tensorflow/models/tree/master/inception
 
 # Script Kiddie Tensorflow Inception Model
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/models/image/imagenet/classify_image.py
+https://github.com/jtoy/awesome-tensorflow
+https://github.com/nlintz/TensorFlow-Tutorials
 
 # Learn and use these notebooks to implement basic to advanced TensorFlow
 https://github.com/mbernico/CS570/tree/master/deepLearning
