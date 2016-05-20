@@ -48,6 +48,7 @@ https://www.udacity.com/course/deep-learning--ud730
 https://www.youtube.com/watch?v=iQdWX1327XQ
 
 # Stanford Deep Learning Computer Vision CS231n
+https://www.youtube.com/watch?v=i1gGsE66b5s
 https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 http://cs231n.github.io/linear-classify/
 
