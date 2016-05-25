@@ -42,6 +42,9 @@ https://github.com/tensorflow/tensorflow/blob/e39d8feebb9666a331345cd8d960f5ade4
 # tensorflow models in production with serving
 http://googleresearch.blogspot.ca/2016/02/running-your-models-in-production-with.html
 
+# Bayesian Models
+https://github.com/blei-lab/edward
+
 # Learn the stuff off Udacity for Youtube learners
 Some of the other videos (you know who you are...are pure crap watch me learn TensorFlow videos...lotsa clicks doesnt mean good)
 https://www.udacity.com/course/deep-learning--ud730
