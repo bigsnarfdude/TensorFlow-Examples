@@ -11,6 +11,9 @@ http://vision.stanford.edu/teaching/cs231n/linear-classify-demo/
 # Save yourself the headache of installing TensorFlow
 https://hub.docker.com/r/tensorflow/tensorflow/
 
+# Tensorboard
+https://www.tensorflow.org/versions/r0.9/images/graph_vis_animation.gif
+
 # AWS GPU
 https://gist.github.com/AlexJoz/1670baf0b32573ca7923
 http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
