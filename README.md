@@ -29,6 +29,8 @@ https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensor
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
 https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 
+# intro ipython notebooks skflow
+https://github.com/PythonWorkshop/intro-to-tensorflow
 
 ![Hot](https://i.imgflip.com/12i14k.jpg "So hot right now")
 
