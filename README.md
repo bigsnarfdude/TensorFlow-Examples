@@ -25,6 +25,9 @@ http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 https://www.tensorflow.org/versions/master/how_tos/image_retraining/index.html
 https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366#.41kxv25qm
 
+# Reinforcement Learning in Tensorflow play game
+https://github.com/coreylynch/async-rl
+
 # Upgrade to Version 0.8 Distributed TensorFlow
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
 https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
