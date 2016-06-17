@@ -87,6 +87,9 @@ https://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/t
 # Submit to Kaggle
 Try you hand at using TensorFlow for https://www.kaggle.com/c/digit-recognizer
 
+# char-rnn
+https://github.com/sherjilozair/char-rnn-tensorflow
+
 # Visualizing MNIST data
 http://colah.github.io/posts/2014-10-Visualizing-MNIST/
 
