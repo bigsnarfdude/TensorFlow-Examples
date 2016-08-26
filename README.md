@@ -32,6 +32,9 @@ https://bigsnarf.wordpress.com/2016/07/19/using-inception-v3-tensorflow-for-mnis
 # Tensorflow Poets 
 https://petewarden.com/2016/02/28/tensorflow-for-poets/
 
+# Tiny Tensorflow - Models shrunk down for embedded computers
+https://github.com/DeepScale/SqueezeNet
+
 # Transfer Learning Inception v3
 https://github.com/bigsnarfdude/tensorflow_transfer_cifar10
 https://github.com/bigsnarfdude/models/tree/master/inception
