@@ -23,6 +23,14 @@ Public AMI in US-East(N. Virginia): ami-9d0f3ff7
 # Sentiment analysis
 https://github.com/sapruash/RecursiveNN
 
+# Licence Plate Detection
+http://matthewearl.github.io/2016/05/06/cnn-anpr/
+
+# MNIST Inception
+https://bigsnarf.wordpress.com/2016/07/19/using-inception-v3-tensorflow-for-mnist/
+
+# Tensorflow Poets 
+https://petewarden.com/2016/02/28/tensorflow-for-poets/
 
 # Transfer Learning Inception v3
 https://github.com/bigsnarfdude/tensorflow_transfer_cifar10
