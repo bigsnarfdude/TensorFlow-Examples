@@ -62,6 +62,10 @@ http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
 https://github.com/tensorflow/tensorflow/tree/e39d8feebb9666a331345cd8d960f5ade4652bba/tensorflow/examples/skflow
 https://github.com/tensorflow/tensorflow/blob/e39d8feebb9666a331345cd8d960f5ade4652bba/tensorflow/examples/skflow/iris_save_restore.py
 
+# Adversarial Video Generation Tensorflow
+https://github.com/dyelax/Adversarial_Video_Generation
+https://github.com/bigsnarfdude/prednet
+
 # tensorflow models in production with serving
 http://googleresearch.blogspot.ca/2016/02/running-your-models-in-production-with.html
 
