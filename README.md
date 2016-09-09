@@ -11,6 +11,10 @@ http://vision.stanford.edu/teaching/cs231n/linear-classify-demo/
 # Save yourself the headache of installing TensorFlow
 https://hub.docker.com/r/tensorflow/tensorflow/
 
+# Inception Resnet v2
+https://github.com/tensorflow/models/blob/master/slim/nets/inception_resnet_v2.py
+
+
 # Tensorboard
 https://www.tensorflow.org/versions/r0.9/images/graph_vis_animation.gif
 
