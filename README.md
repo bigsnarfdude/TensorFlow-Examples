@@ -23,6 +23,11 @@ Public AMI in US-East(N. Virginia): ami-9d0f3ff7
 # Sentiment analysis
 https://github.com/sapruash/RecursiveNN
 
+# Segmenation beginnings
+https://github.com/bigsnarfdude/rcnn
+https://github.com/bigsnarfdude/py-faster-rcnn
+
+
 # Licence Plate Detection
 http://matthewearl.github.io/2016/05/06/cnn-anpr/
 
